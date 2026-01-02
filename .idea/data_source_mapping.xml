@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/models/event.go" value="660663c1-d297-4847-9c70-50899c6fa05e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/660663c1-d297-4847-9c70-50899c6fa05e/console.sql" value="660663c1-d297-4847-9c70-50899c6fa05e" />
+  </component>
+</project>
